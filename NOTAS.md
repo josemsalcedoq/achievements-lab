@@ -2,3 +2,4 @@
 - Entrada 2
 - Entrada 3
 - Entrada 4
+- Nota en pareja
